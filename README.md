@@ -41,12 +41,18 @@
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![Groq AI](https://img.shields.io/badge/Groq_AI-FF6B35?style=flat&logo=ai&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
+![GLB](https://img.shields.io/badge/GLB_3D_Model-4CAF50?style=flat&logo=google-drive&logoColor=white)
+![EXR](https://img.shields.io/badge/EXR_HDRI-FF9800?style=flat&logo=adobe&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 
 <p align="center">
   <img src="https://github.com/Wajahat5530/Talking-Chloe/raw/main/Screenshot/Screenshot%202026-03-29%20090127.png" width="45%" alt="Talking Chloe Home" />
-  <img src="https://github.com/Wajahat5530/Talking-Chloe/raw/main/Screenshot/login%20screenshoot.png" width="45%" alt="Talking Chloe Login" />
+  <img src="https://github.com/Wajahat5530/Talking-Chloe/raw/main/Screenshot/V%20Calling.png" width="45%" alt="Talking Chloe V Calling" />
 </p>
+
 <p align="center">
+  <img src="https://github.com/Wajahat5530/Talking-Chloe/raw/main/Screenshot/login%20screenshoot.png" width="45%" alt="Talking Chloe Login" />
   <img src="https://github.com/Wajahat5530/Talking-Chloe/raw/main/Screenshot/about%20us%20screenshoot.png" width="45%" alt="Talking Chloe About" />
 </p>
 
