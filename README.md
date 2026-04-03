@@ -4,20 +4,24 @@
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Wajahat Ali&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Wajahat Ali&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wajahat Ali&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Wajahat5530&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Wajahat5530&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Wajahat5530&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="Top Languages" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Wajahat Ali&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Wajahat Ali&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=Wajahat5530&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🐍 Contribution Snake
 
@@ -26,7 +30,43 @@
 </p>
 
 ---
+### 🚀 My Projects
+
+---
+
+#### 🤖 [Talking Chloe](https://github.com/Wajahat5530/Talking-Chloe) — AI Voice Assistant
+> AI-powered conversational assistant with 3D interaction, chat history & personalized responses built on Django
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![Groq AI](https://img.shields.io/badge/Groq_AI-FF6B35?style=flat&logo=ai&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Wajahat5530&icon=0&color=0" alt="Visitor Count" />
+  <img src="https://github.com/Wajahat5530/Talking-Chloe/raw/main/Screenshot/Screenshot%202026-03-29%20090127.png" width="45%" alt="Talking Chloe Home" />
+  <img src="https://github.com/Wajahat5530/Talking-Chloe/raw/main/Screenshot/login%20screenshoot.png" width="45%" alt="Talking Chloe Login" />
 </p>
+<p align="center">
+  <img src="https://github.com/Wajahat5530/Talking-Chloe/raw/main/Screenshot/about%20us%20screenshoot.png" width="45%" alt="Talking Chloe About" />
+</p>
+
+---
+
+#### 🌐 [3D Website Template](https://github.com/Wajahat5530/W) — Modern Web Template
+> Stunning 3D animated website template with multi-page layout built with Django & React
+
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+
+<p align="center">
+  <img src="https://github.com/Wajahat5530/W/raw/main/screenshots/Screenshot%202026-03-23%20013023.png" width="45%" alt="Home Page" />
+  <img src="https://github.com/Wajahat5530/W/raw/main/screenshots/Screenshot%202026-03-23%20013051.png" width="45%" alt="Sports Page" />
+</p>
+<p align="center">
+  <img src="https://github.com/Wajahat5530/W/raw/main/screenshots/Screenshot%202026-03-23%20013123.png" width="45%" alt="Business Page" />
+  <img src="https://github.com/Wajahat5530/W/raw/main/screenshots/Screenshot%202026-03-23%20013140.png" width="45%" alt="Entertainment Page" />
+</p>
+
