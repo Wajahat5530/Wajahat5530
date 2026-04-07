@@ -5,31 +5,6 @@
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Wajahat5530&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Wajahat5530&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Wajahat5530&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="Top Languages" />
-</p>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Wajahat5530&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Wajahat5530/Wajahat5530/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
-</p>
-
----
 ### 🚀 My Projects
 
 ---
@@ -76,3 +51,30 @@
   <img src="https://github.com/Wajahat5530/W/raw/main/screenshots/Screenshot%202026-03-23%20013140.png" width="45%" alt="Entertainment Page" />
 </p>
 
+
+
+<!-- # 📊 GitHub Stats: -->
+<!-- <p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Wajahat5530&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Wajahat5530&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Wajahat5530&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="Top Languages" />
+</p> -->
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=Wajahat5530&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Wajahat5530/Wajahat5530/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
+</p>
+
+---
